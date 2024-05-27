@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Ürünler | CHECK360</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+
+  <body>
+    <div class="c360-page-container-header">
+      <header class="header">
+        <div class="header-top">
+          <a href="index.html" class="logo"> 
+            <img src="images/logo.png" alt="logo">
+          </a>
+          <div class="search-content">
+            <input
+              type="text"
+              class="search-input"
+              placeholder="Neyi en ucuza almak istersin?"
+            />
+            <div class="search-button">
+              <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+          </div>
+        </div>
+        <div class="header-bottom">
+          <nav class="navbar">
+  
+            <!-- DINAMIK OLARAK JS TARAFINDA OLUSTURULMAKTADIR. ORNEK OLUSUM ASAGIDAKI GIBIDIR-->
+  
+            <!--<a href="#" class="nav-ele-title">Elektronik, Cep Telefonu</a>
+            <a href="#" class="nav-ele-title">Ev, Yaşam, Ofis, Kırtasiye</a>
+            <a href="#" class="nav-ele-title">Anne, Bebek, Oyuncak</a>-->
+          </nav>
+        </div>
+        <div class="category-items-container">
+  
+          <!-- DINAMIK OLARAK JS TARAFINDA OLUSTURULMAKTADIR. ORNEK OLUSUM ASAGIDAKI GIBIDIR-->
+          
+          <!--<div class="category-item">
+            <span class="category-item-title">Cep Telefonu</span>
+            <ul class="category-item-list">
+              <li><a href="#" title="Cep Telefonları">Cep Telefonları</a></li>
+              <li><a href="#" title="Powerbank">Powerbank</a></li>
+              <li><a href="#" title="Bluetooth Kulaklık">Bluetooth Kulaklık</a></li>
+              <li><a href="#" title="Cep Telefonu Araç Kiti">Cep Telefonu Araç Kiti</a></li>
+            </ul>
+          </div>
+          <div class="category-item">
+            <span class="category-item-title">TV, Görüntü ve Ses Sistemleri</span>
+            <ul class="category-item-list">
+              <li><a href="#" title="Televizyonlar">Televizyonlar</a></li>
+              <li><a href="#" title="Ev Sinema Sistemler">Ev Sinema Sistemleri</a></li>
+              <li><a href="#" title="Bluetooth Hoparlör">Bluetooth Hoparlör</a></li>
+              <li><a href="#" title="Projeksiyon">Projeksiyon</a></li>
+            </ul>
+          </div>-->
+        </div>
+      </header>
+    </div>
+    <div class="search-view">
+      <div class="shopping-view">
+        <div class="search-header">
+          <div class="search-header-content" style="max-width: 1458px">
+            <div class="result-message">
+              <span class="result-message-orange"></span>
+              <span class="result-message-connector-text"
+                ><!--ve--></span
+              >
+              <span class="result-message-filter-text"
+                ><!--Ücretsiz Kargo--></span
+              >
+              <span class="result-message-base-text"
+                ><!--için .. sonuç--></span
+              >
+            </div>
+            <div class="sort-container"></div>
+          </div>
+        </div>
+        <div class="shopping-view-container">
+          <div class="filter-sidebar">
+            <div class="filter-sidebar-title">
+              <span class="filter-sidebar-headline">Filtre</span>
+            </div>
+            <div class="filter-sidebar-filters">
+              <div class="filter">
+                <div class="filter-title">
+                  <span>Kategori</span>
+                </div>
+                <div class="category-select-container">
+                  <div class="category-select">
+                    <div class="category-select-button">
+                      <span class="category-select-button-text"
+                        ></span
+                      >
+                    </div>
+                    <!-- DINAMIK OLARAK JS TARAFINDA OLUSTURULMAKTADIR. ORNEK OLUSUM ASAGIDAKI GIBIDIR-->
+
+                    <!--<div class="category-select-button indent">
+                            <span class="category-select-button-text">Samsung</span>
+                        </div>
+                        <div class="category-select-button indent">
+                          <span class="category-select-button-text">iPhone</span>
+                      </div>-->
+                  </div>
+                </div>
+              </div>
+              <div class="filter">
+                <div class="filter-title">
+                  <span>Teslimat</span>
+                </div>
+                <div class="delivey-select-container">
+                  <div class="delivery-select">
+                    <div class="freeShipping-select-button">
+                      <span class="freeShipping-select-button-text"
+                        >Ücretsiz Kargo</span
+                      >
+                    </div>
+                  </div>
+                  <div class="delivery-select">
+                    <div class="freeReturn-select-button">
+                      <span class="freeReturn-select-button-text"
+                        >Ücretsiz İade</span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="filter">
+                <div class="filter-title">
+                  <span>Fiyat Aralığı</span>
+                </div>
+                <div class="range-select">
+                  <div class="range-text-input">
+                    <div class="range-input-box">
+                      <input
+                        placeholder="0"
+                        class="range-input-box__input"
+                        pattern="\d*"
+                        value="500"
+                      />
+                      <span class="range-input-box__unit">₺</span>
+                    </div>
+                    <span class="range-text-input__text-input-divider">-</span>
+                    <div class="range-input-box range-input-box--desktop">
+                      <input
+                        placeholder="148549"
+                        class="range-input-box__input range-input-box__input--desktop"
+                        pattern="\d*"
+                        value="148549"
+                      />
+                      <span
+                        class="range-input-box__unit range-input-box__unit--desktop"
+                        >₺</span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="shopping-view-content" style="max-width: 1184px">
+            <div class="shopping-view-result-container">
+              <div class="search-result-title">
+                <span class="search-result-title-headline"></span>
+              </div>
+              <div class="search-result-grid">
+
+                <!-- DINAMIK OLARAK JS TARAFINDA OLUSTURULMAKTADIR. ORNEK OLUSUM ASAGIDAKI GIBIDIR-->
+
+                <div class="grid-item-container">
+                  <a href="#">
+                    <div class="product-image-container">
+                      <img
+                        class="product-image-image"
+                        src="images/iPhone14.png"
+                      />
+                      <div class="product-image-overlay"></div>
+                    </div>
+                  </a>
+                  <div class="grid-item-details-container">
+                    <div class="variant-display">
+                      <div class="image-variant">
+                        <div class="image-variant-image" style="background-image: url(images/iPhone14.png);"></div>
+                      </div>
+                      <div class="image-variant">
+                        <div class="image-variant-image" style="background-image: url(images/iPhone14_Sarı.png);"></div>
+                      </div>
+                    </div>
+                    <div class="product-details">
+                      <a href="#">
+                        <div class="product-details-title">
+                          Apple iPhone 14 5G Smartphone 15,494cm (6,1 Zoll)
+                          OLED-Display, 128GB interner Speicher, 6GB RAM, iOS
+                          16, Midnight (MPUF3ZD/A)
+                        </div>
+                      </a>
+                      <span class="product-details-offers"
+                        >31 Teklif arasında en uygun</span
+                      >
+                      <a href="https://www.vodafone.com.tr" target="_blank" class="product-details-seller-container">
+                        <div class="product-details-seller">vodafone.com.tr</div>
+                        <div class="product-details-price">
+                          <div class="display-text">
+                            <span class="value">43.599,95</span>
+                            <span class="unit">₺</span>
+                          </div>
+                        </div>
+                    </a>
+                    <div class="product-details-shipping">
+                      <div class="product-details-cost-container">
+                        <div class="shipping-costs">50,95 ₺ Gönderi </div>
+                      </div>
+                      <div class="date-range"> <span>1–2 İş günü</span></div>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="c360-page-container-footer">
+      <footer class="footer">
+        <div class="footer-bottom">
+          <div class="footer-bottom-content">
+            <div class="footer-copyright">  <span>Copyright © 2024 CHECK360 Karışılaştırma Portali A.Ş.</span> <span>Tüm hakları saklıdır.</span> </div>
+          </div>        
+        </div>      
+      </footer>
+    </div>    
+    <script src="js/api.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/product.js"></script>        
+  </body>
+</html>

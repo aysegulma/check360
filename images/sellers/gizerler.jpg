@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta content="origin-when-cross-origin" name="referrer" />
+  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=qHTI3UGQsNTW2riP1-4qGhn_oz3KX4MC3IX29VxJUQ6rHmQdAxi1Aa2MNqGCMQ1jXV-REfFTy8P2qX2O_TYeRJ5MnUJBieiKJ6QEOtB-ft5s19LhPo0Av0sMunLya5hEhFflzk5Jd6aQZ_y29wwXFmKvVvoblfZ98bne9dyeKmGQ_aE2pQi8buIw2uxLfUNEQv4eoAXnpIKwupLDXFhEhhyTtJX-9xO04u6sofUSz_4gD1Ojnt_Y8pWOMkuMU_ANsYhtbwvAOo4dxfukVdTHFrCWUe3hnPbGwVNUN7LDwBqvp_K3HUtnW3183SLKCwtqQ-5kMv_Og96Y8fn1GUs09k7h2S-MPBmDlVrHGzN416fUnd9Tz24pdEIL94QdkEdK" charset="UTF-8"></script><style>
+    * {margin: 0;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);box-sizing: border-box;}
+    @-webkit-keyframes bHdebm{0%{-webkit-transform:translate(-100%);-ms-transform:translate(-100%);transform:translate(-100%);}100%{-webkit-transform:translate(0);-ms-transform:translate(0);transform:translate(0);}} @keyframes bHdebm{0%{-webkit-transform:translate(-100%);-ms-transform:translate(-100%);transform:translate(-100%);}100%{-webkit-transform:translate(0);-ms-transform:translate(0);transform:translate(0);}}
+   section{-webkit-animation:bHdebm 3s linear;animation:bHdebm 3s linear;position:fixed;height:7px;background:#4a90e2;position:fixed;top:0;left:0;right:0;}
+   body{margin:0;padding:0;color:#37454d;font-family:Arial,Helvetica,sans-serif}.wrapper{top:0;left:0;width:100%;height:100vh;display:-webkit-box;display:-ms-flexbox;display:flex;position:relative;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.container{display:block;padding:0 10px;position:relative;text-align:center}.image-area{display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin-bottom: 20px;}.image-area img{max-width:30%}p{margin-bottom:34px}
+
+  #merchantButton {
+    position: relative;
+    padding: 10px 20px;
+    background-color: #4990e2;
+    border-radius: 6px;
+    color: #fff;
+    margin: 0 auto;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+  </style>
+
+  <script>
+    window.pvData = {
+      pageType: 'PRODUCT',
+      merchantName: 'Gizerler',
+      offerOrder: '3',
+      cheapest: '1' == "1" ? "Y" : "N",
+      offerSponsored: 'false' == "true" ? "Y" : "N",
+      photoCount: '2',
+      offerCount: '22',
+      fullCategory: 'Elektronik / Beyaz Eşya & Mutfak / Beyaz Eşya / Buzdolapları',
+      commentCount: '11',
+      offerPrice: '26099.0',
+    };
+    window.dataLayer = [
+      {
+        ecommerce: {
+          purchase: {
+            actionField: {
+              id: '28bbf65f70d34f2db0963f62029aaf74',
+              revenue: '4.98',
+              list: 'PRODUCT'
+            },
+            products: [
+              {
+                name: 'Samsung RL4323RBAWW/TR Buzdolabı',
+                id: '701125',
+                price: '4.98',
+                brand: 'Samsung' || null,
+                category: 'Elektronik / Beyaz Eşya & Mutfak / Beyaz Eşya / Buzdolapları' || null,
+                quantity: 1,
+                dimension11: 'normal' == "fake" ? "FAKE" : "GERÇEK"
+              }
+            ]
+          }
+        }
+      },
+      {
+        event: 'jumpTrigger',
+        adWordsConversion: {
+          id: 1042977794,
+          label: 'nA9WCOasZxCCqKrxAw',
+          value: '498.0',
+          orderId: '28bbf65f70d34f2db0963f62029aaf74',
+          currency: 'TRY'
+        },
+        rtbHouse: {
+          value: '26099.0',
+          id: '701125'
+        }
+      },
+      {
+        site_type: 'cimri',
+        page_type: 'jump',
+        konum: null,
+        platform: null,
+        product_comment_count: '11',
+        product_rate_count: null,
+        product_rate: '4.5',
+        product_favorite: '' == "true" ? "yes" : "no",
+        product_price_type: 'false' == "true" ? "SPONSOR" : "UCUZ",
+        product_type: null,
+        price_position: '1',
+        price_count: '22',
+        cta_type: null,
+        ecommerce: {
+          purchase: {
+            actionField: {
+              id: '28bbf65f70d34f2db0963f62029aaf74',
+              list: 'PRODUCT'.toLowerCase(),
+              affiliation: 'Gizerler',
+              revenue: '4.98',
+            },
+            products: [{
+              id: '701125',
+              name: 'Samsung RL4323RBAWW/TR Buzdolabı',
+              brand: 'Samsung' || null,
+              category: 'Elektronik / Beyaz Eşya & Mutfak / Beyaz Eşya / Buzdolapları' || null,
+              position: Number('') || 0,
+              price: '4.98',
+              quantity: 1,
+              dimension54: null,
+              dimension71: null,
+              dimension74: null
+            }]
+          }
+        }
+      },
+      {
+        price_position: '1',
+        platform: 'CIMRI_DESKTOP' === "CIMRI_DESKTOP" ? "web-desktop" : "web-mobile",
+        page_type: 'yonlendirme',
+        site_type: 'cimri',
+        previous_page_type: 'PREVIOUS_PAGE_TYPE',
+        product_comment_count: '11',
+        previous_search_id: 'PREVIOUS_SEARCH_ID',
+        previous_algorithm_number: 'PREVIOUS_ALGORITHM_NUMBER',
+        product_rate_count: 'PRODUCT_RATE_COUNT',
+        product_rate: '4.5',
+        product_favorite: '' == "true" ? "yes" : "no",
+        product_price_alert: 'PRODUCT_PRICE_ALERT',
+        product_price_type: 'false' == "true" ? "SPONSOR" : "UCUZ",
+        product_type: 'normal' == "fake" ? "fake" : "real",
+        price_count: '22',
+        previous_algorithm_name: 'PREVIOUS_ALGORITHM_NAME',
+        widget_name: 'WIDGET_NAME',
+        widget_index: 'WIDGET_INDEX'
+      }
+    ];
+
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(), event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-THWD4B');
+  </script>
+</head>
+  <body>
+    <div class="wrapper">
+      <section></section>
+      <div class="container">
+        <div class="image-area">
+          <svg width="86" height="28" viewBox="0 0 86 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M84.5887 1.19114C85.5317 2.48164 85.2626 4.28268 83.9839 5.21706C82.7095 6.15144 80.9085 5.86389 79.9655 4.5734C79.0201 3.28348 79.2907 1.48157 80.5691 0.549495C81.8452 -0.386035 83.6428 -0.0976254 84.5887 1.19114ZM26.3432 1.27297C27.2871 2.56375 27.0195 4.36566 25.7408 5.29946C24.4644 6.23442 22.6668 5.94629 21.7215 4.65724C20.7776 3.36646 21.047 1.56541 22.3248 0.631897C23.6006 -0.304208 25.4008 -0.015799 26.3432 1.27297ZM9.71664 23.9219C12.1798 23.9176 13.8157 23.1532 14.6265 21.6282L18.9489 21.6207C17.8298 25.869 14.7536 27.9939 9.7224 28C3.25235 28.01 0.00954974 24.5316 2.08258e-05 17.5659C-0.00946625 10.6245 3.22239 7.15295 9.6933 7.14227C14.7245 7.13537 17.8065 9.24989 18.9374 13.4867L14.6147 13.4925C13.8281 11.9738 12.1884 11.2201 9.69906 11.2227C7.52317 11.2273 6.0065 11.8041 5.14272 12.9583C4.43682 13.9039 4.08387 15.4353 4.08819 17.5602C4.08992 19.6836 4.44719 21.2161 5.15683 22.1595C6.02321 23.3367 7.54132 23.9245 9.71664 23.9219ZM21.9952 7.12529L26.0819 7.11924L26.1127 27.9766L22.0249 27.9824L21.9952 7.12529ZM54.4198 7.07859C60.9184 7.07025 64.1733 10.5485 64.1831 17.5135L64.198 27.9227L60.109 27.9288L60.0946 17.5178C60.0909 15.3944 59.7359 13.8633 59.0286 12.9211C58.1357 11.7439 56.6017 11.1564 54.4255 11.161C52.2499 11.1627 50.7333 11.7534 49.8709 12.9329C49.163 13.876 48.8115 15.4105 48.8144 17.534L48.8291 27.9461L44.7429 27.9518L44.7268 17.5397C44.7251 15.4163 44.3681 13.884 43.6585 12.9422C42.767 11.7649 41.2336 11.1792 39.06 11.182C36.8833 11.1849 35.3655 11.7756 34.5017 12.9554C33.7972 13.8987 33.4463 15.4324 33.4495 17.5541L33.4639 27.9665L29.3757 27.9723L29.361 17.5645C29.3515 10.5986 32.5805 7.10973 39.0543 7.10108C42.5146 7.0959 45.0795 8.14898 46.7621 10.2623C48.4076 8.14466 50.9612 7.08437 54.4198 7.07859ZM67.48 14.6424C67.4737 9.58757 70.9418 7.05527 77.8855 7.0449L77.8916 11.1276C75.3483 11.1305 73.5931 11.4857 72.6244 12.1936C71.9182 12.7192 71.5679 13.5311 71.5685 14.6329L71.588 27.9124L67.499 27.9184L67.48 14.6424ZM84.3262 7.03626L84.355 27.8951L80.2689 27.9008L80.2398 7.04231L84.3262 7.03626Z" fill="#0786E7"/>
+          </svg>
+          <img
+            src="https://cdn.cimri.io/web-images/giphy.gif"
+            alt=""
+            style="width: 50px;margin: 0 30px;"
+          />
+          <img
+            src="https://cdn.cimri.io/pictures/merchant-logos/10250.png"
+            alt="Gizerler"
+          />
+        </div>
+        <div id="conditionalRendering"></div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      var url = 'https://www.gizerler.com/urun/samsung-rl4323rbawwtr-kombi-no-frost-beyaz-buzdolabi?ref=Cimri&utm_source=Cimri&utm_medium=Cimri&utm_campaign=Cimri-fiyat-karsilastirma';
+      var isDeepLink = url.indexOf("http") === -1;
+      var isIOSandChrome = top.navigator.userAgent.match(/iPad|iPhone|iPod/i) !== null && top.navigator.userAgent.match(/CriOS/i) !== null;
+      var isIOS = top.navigator.userAgent.match(/iPad|iPhone|iPod/i) !== null;
+      var appStoreLink = '';
+      var googleStoreLink = '';
+      var appGalleryLink = '';
+      var merchantName = 'Gizerler';
+      var storeLink;
+      if (top.navigator.userAgent.match(/Android/i) && !top.navigator.userAgent.match(/Huawei/i)) {
+        storeLink = googleStoreLink;
+      } else if(top.navigator.userAgent.match(/Huawei/i)) {
+        storeLink = appGalleryLink;
+      } else if (!window.MSStream && /iPad|iPhone|iPod/.test(top.navigator.userAgent)) {
+        storeLink = appStoreLink;
+      }
+
+      var template = "";
+      template += '<p style="font-size: 22px"> <span style="font-size: 30px; font-weight: 600"> ';
+      template += merchantName + '</span> sitesine ';
+
+      if(isIOSandChrome && isDeepLink) {
+        template += 'yönlendirileceksiniz.</p>';
+        template += '<button id="merchantButton" onclick="redirect()"> Mağazaya Git</button>';
+      } else {
+        
+        template += 'yönlendiriliyorsunuz.</p>';
+        template += ' <p>Cimri ürün satışı yapmamaktadır.</p> ';
+        template += ' <p>Satın almadan önce fiyat, satıcı kaynaklı doğabilecek ek ücret ve ürün özelliklerini kontrol etmeyi unutmayın.</p> ';
+        template += ' <p>Otomatik yönlendirilemezseniz <a href="https://www.gizerler.com/urun/samsung-rl4323rbawwtr-kombi-no-frost-beyaz-buzdolabi?ref=Cimri&amp;utm_source=Cimri&amp;utm_medium=Cimri&amp;utm_campaign=Cimri-fiyat-karsilastirma">buraya tıklayın</a></p> ';
+      }
+
+      document.getElementById("conditionalRendering").innerHTML = template;
+
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ecommerce: null});
+      window.dataLayer.push({
+        event: 'purchase',
+        ecommerce: {
+          item_list_name: 'ITEM_LIST_NAME',
+          currency: 'TRY',
+          transaction_id: '28bbf65f70d34f2db0963f62029aaf74',
+          value: '4.98',
+          items: [{
+            index: Number('') || 0,
+            item_id: '701125',
+            item_name: 'Samsung RL4323RBAWW/TR Buzdolabı',
+            item_brand: 'Samsung' || null,
+            item_list_name: 'ITEM_LIST_NAME',
+            affiliation: 'AFFILIATION',
+            item_category: 'CATEGORY_1',
+            item_category2: 'CATEGORY_2',
+            item_category3: 'CATEGORY_3',
+            item_category4: 'CATEGORY_4',
+            item_category5: 'CATEGORY_5',
+            price: '4.98',
+            algorithm_name: 'ALGORITHM_NAME',
+            search_id: 'SEARCH_ID',
+            algorithm_number: 'ALGORITHM_NUMBER',
+            quantity: 1
+          }]
+        }
+      });
+
+      function redirect() {
+        var isAppOpened = false;
+        if (isDeepLink) {
+          if (isIOS) {
+            document.addEventListener("visibilitychange", function() {
+              if (document.visibilityState === 'visible') {
+                
+                closeTab();
+              } else {
+                
+                isAppOpened = true;
+              }
+            });
+
+            
+            window.location = url;
+
+            
+            
+            var isSafari = top.navigator.userAgent.match(/safari/i) !== null && top.navigator.userAgent.match(/CriOS/i) === null;
+
+            setTimeout(function () {
+              if(!isAppOpened) {
+                openStore();
+              }
+            }, isSafari ? 3000 : 2000);
+
+            function closeTab() {
+              open('', '_self').close();
+              var win = window.open('','_self');
+              win.close();
+              if (isIOSandChrome)
+                window.location.replace('about:blank');
+            }
+
+            function openStore(){
+              if (storeLink) {
+                window.location = storeLink;
+                
+                
+                setTimeout(closeTab, 2000);
+              } else {
+                window.location = 'https://www.cimri.com/404?offerId=' + '766327489' + '&merchant=' + 'gizerler.com';
+              }
+            }
+          } else {
+            window.location.replace(url);
+            var start = Date.now();
+            function try_close(){
+              window.location.replace('about:blank');
+            }
+
+            function store_or_close() {
+                var now = Date.now();
+                if (now - start > 3000) {
+                  try_close();
+                } else {
+                  if (storeLink) {
+                    window.location.replace(storeLink);
+                  } else {
+                    window.location.replace('https://www.cimri.com/404?offerId=' + '766327489' + '&merchant=' + 'gizerler.com');
+                  }
+                  setInterval(try_close, 1000);
+                }
+              }
+              setInterval(store_or_close, 2000);
+            }
+        } else {
+          window.location.replace(url);
+        }
+      }
+
+      function responseHandler(r) {
+        if (r.currentTarget.status === 202) {
+          !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+          n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+          document,'script','https://connect.facebook.net/en_US/fbevents.js');
+          fbq('init', '254543058502023');
+          fbq('track', 'Purchase', { value: '498.0', 'currency': 'TRY' });
+          if (!(isIOSandChrome && isDeepLink)) {
+            setTimeout(redirect, 1500);
+          }
+        }
+      }
+
+      try {
+        var clickReq = new XMLHttpRequest();
+        var clickData = JSON.stringify({"offerId":766327489,"discoveryDetails":{"point":4.5,"offerFiltered":false,"priceOrder":1,"platformName":"CIMRI_DESKTOP","commentCount":11,"offerOrder":3,"offerSponsored":false,"offerCount":22,"pageType":"PRODUCT","photoCount":2,"minPrice":26099.0,"isAdwords":false,"minPriceMerchant":10250},"token":"74729474-8b0d-4b21-a9d0-ef7c98b8b2f5-766327489-1705075810889","productId":701125,"transactionId":"28bbf65f70d34f2db0963f62029aaf74"});
+        clickReq.open(
+          'POST',
+          '/click/cimri',
+          true);
+        clickReq.onload = responseHandler;
+        clickReq.setRequestHeader('Content-Type', 'application/json');
+        clickReq.setRequestHeader('cimri-cvisitor', 'L356dcXIZtNY0iuoF2IR3OAQE67c-5YHLP7UplvcJ8o=');
+        clickReq.send(clickData);
+      } catch (e) {
+        redirect();
+      }
+    </script>
+  </body>
+</html>
