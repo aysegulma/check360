@@ -1,2 +1,2 @@
 # check360
-check360 web site
+the comparison portal - web site / das Vergleichsportal
